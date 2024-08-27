@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @CrisleiKeli!
-- 📚 I'm pursuing a Bachelor's degree in Information Technology at Univesp Oficial and a technical course in Computer Networks at Etec Prof. Massuyuki Kawano, in Tupã. These programs are helping me develop essential IT skills, expanding my knowledge, and enhancing my abilities.
-- 🤝 I'm an adaptable, creative professional committed to quality and innovation.
-- 📫 Feel free to reach out to me on LinkedIn: Crislei Jenuino
+👋 Olá, eu sou a Crislei Keli!
 
+📚 "Estudante de TI na Univesp | Técnico em Redes na Etec Prof. Massuyuki Kawano | Participando do DIO Campus Expert - T9"
+
+🤝 Sou uma profissional adaptável e criativa, comprometida com a qualidade e a inovação.
+
+📫 Sinta-se à vontade para me contatar no LinkedIn: [Crislei Jenuino.](https://www.linkedin.com/in/crisleikelijenuino/)
 <!---
 CrisleiKeli/CrisleiKeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
