@@ -4,7 +4,7 @@
 
 🤝 Sou uma profissional adaptável e criativa, comprometida com a qualidade e a inovação.
 
-📫 Sinta-se à vontade para me contatar no LinkedIn: [Crislei Jenuino.](https://www.linkedin.com/in/crisleikelijenuino/)
+📫 Sinta-se à vontade para me contatar no LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisleikelijenuino/)
 <!---
 CrisleiKeli/CrisleiKeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
