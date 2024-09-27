@@ -5,6 +5,7 @@
 🤝 Sou uma profissional adaptável e criativa, comprometida com a qualidade e a inovação.
 
 📫 Sinta-se à vontade para me contatar no LinkedIn: [![Crislei Jenuino.](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisleikelijenuino/)
+
 Perfil Público DIO: [![DIO Badge](https://img.shields.io/badge/-DIO-%237159c1?style=for-the-badge&logo=data:image/png;base64,[BASE64_STRING]&logoColor=white)](https://https://web.dio.me/users/crislei_jenuino?tab=achievements)
 <!---
 CrisleiKeli/CrisleiKeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
