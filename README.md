@@ -1,6 +1,6 @@
 👋 Olá, eu sou a Crislei Keli!
 
-📚 "Estudante de TI na Univesp | Técnico em Redes na Etec Prof. Massuyuki Kawano | Participando do DIO Campus Expert - T9"
+📚 "Estudante de BTI na Univesp | Técnico em Redes na Etec Prof. Massuyuki Kawano | DIO Campus Expert - T9"
 
 🤝 Sou uma profissional adaptável e criativa, comprometida com a qualidade e a inovação.
 
